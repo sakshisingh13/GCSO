@@ -9441,6 +9441,7 @@ var Mouse = _dereq_('../core/Mouse');
                 context.stroke();
 
                 break;
+
             }
 
             context.setLineDash([]);
